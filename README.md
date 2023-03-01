@@ -1,0 +1,2 @@
+# ARS
+Automatizacija razvoja softvera

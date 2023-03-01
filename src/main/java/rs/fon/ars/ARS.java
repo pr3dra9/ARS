@@ -17,5 +17,6 @@ public class ARS {
     public static void main(String[] args) {
         Event e1 = EventFactory.createEvent(1, 100, "Prvi", "first event desc", new Date(System.currentTimeMillis()));
         System.out.println(e1);
+        System.out.println(e1);
     }
 }

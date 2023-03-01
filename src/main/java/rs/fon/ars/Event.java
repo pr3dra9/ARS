@@ -1,5 +1,7 @@
 package rs.fon.ars;
 
+import java.sql.Date;
+
 public class Event {
 
 	int id, budget;

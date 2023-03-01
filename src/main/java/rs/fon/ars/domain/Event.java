@@ -1,4 +1,4 @@
-package rs.fon.ars;
+package rs.fon.ars.domain;
 
 import java.sql.Date;
 

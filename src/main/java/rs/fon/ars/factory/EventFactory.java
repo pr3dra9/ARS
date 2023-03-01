@@ -1,6 +1,6 @@
 package rs.fon.ars.factory;
 
-import rs.fon.ars.Event;
+import rs.fon.ars.domain.Event;
 
 import java.sql.Date;
 

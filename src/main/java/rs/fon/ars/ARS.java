@@ -4,6 +4,7 @@
  */
 package rs.fon.ars;
 
+import rs.fon.ars.domain.Event;
 import rs.fon.ars.factory.EventFactory;
 
 import java.sql.Date;
